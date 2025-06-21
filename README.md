@@ -1,2 +1,1 @@
-# version2
-hahahh
+## Project Info will be updated soon
